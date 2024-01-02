@@ -19,7 +19,7 @@ LAN=vmbr111
 # The domain that you want to have inside 
 # your virtual world
 
-DOMAIN=example.com
+DOMAIN=ai.com
 
 # The storage where your containers shall reside
 # e.g. local or local-lvm or local-disc etc.
